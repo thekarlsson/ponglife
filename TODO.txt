@@ -1,0 +1,4 @@
+x Event log. Log all events per tick in log file.
+x Networking
+x Integration with RubyChat
+x Feeling the beat. Move with the rythm. Organism behaviour based on music
